@@ -1,0 +1,17 @@
+{
+    "name": "aamdsam/library",
+    "type": "library",
+    "description": "library aamdsam",
+    "keywords": ["libraryaamdsam"],
+    "homepage": "https://omanagement.id",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muh Muammar",
+            "email": "muh.muammar@gmail.com",
+            "homepage": "http://aam.dsam.web.id",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
